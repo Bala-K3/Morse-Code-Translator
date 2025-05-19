@@ -7,11 +7,12 @@ This is a simple C++ program that converts English text into Morse code. It supp
 ✔ Validates user input to allow only alphanumeric characters
 
 📂 Installation
+
 1️⃣ Clone the repository:
-  git clone https://github.com/yourusername/MorseCode-Converter.git
+  git clone https://github.com/Bala-K3/Morse-Code-Translator.git
   
 2️⃣ Navigate to the project directory:
-  cd MorseCode-Converter
+  cd MorseCode-Translator
   
 3️⃣ Compile the C++ code using g++ (for Linux/macOS)
   g++ MorseCode.cpp -o MorseCode
